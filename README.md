@@ -6,7 +6,17 @@ Welcome to our Hotel Booking Application, your ultimate solution for effortlessl
 
 ## Getting Started
 
+### Prerequisites
+
+Ensure you have the following software installed on your machine:
+- [Node.js](https://nodejs.org/) (LTS version recommended)
+- [Git](https://git-scm.com/)
+
 ### Installation
+
+```bash
+git clone https://github.com/JimakPasha/room-ease.git
+```
 
 ```bash
 npm install
