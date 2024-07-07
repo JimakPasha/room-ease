@@ -6,7 +6,17 @@ Welcome to our Hotel Booking Application, your ultimate solution for effortlessl
 
 ## Getting Started
 
+### Prerequisites
+
+Ensure you have the following software installed on your machine:
+- [Node.js](https://nodejs.org/) (LTS version recommended)
+- [Git](https://git-scm.com/)
+
 ### Installation
+
+```bash
+git clone https://github.com/JimakPasha/room-ease.git
+```
 
 ```bash
 npm install
@@ -28,12 +38,6 @@ npm run build
 ### Preview the Build
 ```bash
 npm run preview
-```
-
-### TypeScript and ESLint Linting
-```bash
-npm run lint
-
 ```
 
 ## Key Features:
@@ -64,6 +68,6 @@ Robust error handling and loading indicators ensure a smooth and reliable user e
 - **React** - A JavaScript library for building user interfaces
 - **TypeScript** - Strict syntactical superset of JavaScript
 - **Vite** - Fast front-end tooling for modern web development
-- **Material-UI** - React components for faster and easier web development.
-- **@emotion/react** and **@emotion/styled** - Library for writing CSS styles with JavaScript and TypeScript.
+- **Material-UI** - React components for faster and easier web development
+- **@emotion/react** and **@emotion/styled** - Library for writing CSS styles with JavaScript and TypeScript
 - **axios** - Promise based HTTP client for the browser and node.js
