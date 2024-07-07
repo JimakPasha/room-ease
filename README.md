@@ -40,12 +40,6 @@ npm run build
 npm run preview
 ```
 
-### TypeScript and ESLint Linting
-```bash
-npm run lint
-
-```
-
 ## Key Features:
 
 - Room Display with Pagination:
@@ -74,6 +68,6 @@ Robust error handling and loading indicators ensure a smooth and reliable user e
 - **React** - A JavaScript library for building user interfaces
 - **TypeScript** - Strict syntactical superset of JavaScript
 - **Vite** - Fast front-end tooling for modern web development
-- **Material-UI** - React components for faster and easier web development.
-- **@emotion/react** and **@emotion/styled** - Library for writing CSS styles with JavaScript and TypeScript.
+- **Material-UI** - React components for faster and easier web development
+- **@emotion/react** and **@emotion/styled** - Library for writing CSS styles with JavaScript and TypeScript
 - **axios** - Promise based HTTP client for the browser and node.js
