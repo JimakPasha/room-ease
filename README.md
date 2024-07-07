@@ -19,6 +19,10 @@ git clone https://github.com/JimakPasha/room-ease.git
 ```
 
 ```bash
+cd ./room-ease
+```
+
+```bash
 npm install
 # or
 yarn
